@@ -13,7 +13,7 @@ java {
 }
 
 application {
-	mainClass = "com.restservice.DemoApplication"
+	mainClass = "com.restservice.Application"
 }
 
 repositories {
